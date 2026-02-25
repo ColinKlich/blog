@@ -16,10 +16,11 @@ timezone: America/Chicago
 
 title: Colin Klich # the main title
 
-tagline: Design and Coding. # it will display as the sub-title
+tagline: Software Engineer | Security | Automation | AI # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Linux, Home Servers, BASH, Photography, and Ruby on Rails.
+  A recent graduate software engineer passionate about cybersecurity, automation, and AI development.
+  Sharing open-source projects, scripts, and experiments in security, automation, and artificial intelligence.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -38,11 +39,11 @@ social:
   email: # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    # - https://twitter.com/username # change to your twitter homepage
     - https://github.com/colinklich # change to your github homepage
+    - https://linkedin.com/in/colinklich
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    # - https://www.twitter.com/username
 
 google_site_verification: # fill in to your verification string
 
