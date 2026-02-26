@@ -1,6 +1,6 @@
 ---
 title: Using Syncthing to manage my 6TB media library
-date: 2024-11-21
+date: 2026-2-25
 categories: [Plex, Media Server, Self-hosting]
 tags: [data storage]
 image:
@@ -24,9 +24,11 @@ From their homepage:
 you can check it out [here](https://syncthing.net/)
 
 ## The setup
-  - The first server is on a synology NAS. This network also has a windows machine that is always one, and I will be using this machine as the Syncthing client to reduce pressure on synology.
 
-  - The second server is on a windows 10 machine with external drives attached. This machine constantly crashes since the Windows 10 EOL, so it must first be upgraded to Ubuntu 24.
+- The first server is on a synology NAS. This network also has a windows machine that is always one, and I will be using this machine as the Syncthing client to reduce pressure on synology.
+
+- The second server is on a windows 10 machine with external drives attached. This machine constantly crashes since the Windows 10 EOL, so it must first be upgraded to Ubuntu 24.
 
 ## The Solution
 
+<a href="https://github.com/colinklich/blog/edit/main/{{ page.path }}">✏️ Edit this page</a>

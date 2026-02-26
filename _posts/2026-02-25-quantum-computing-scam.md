@@ -84,3 +84,5 @@ The quantum computing field needs less funding based on speculative promises and
 
 - [How to factor 2048 bit RSA integers in 8 hours using 20 million noisy qubits](https://arxiv.org/abs/2111.04351) — arxiv.org
 - [Quantum Algorithms: Shor's Algorithm](https://www.classiq.io) — Classiq.io
+
+<a href="https://github.com/colinklich/blog/edit/main/{{ page.path }}">✏️ Edit this page</a>
