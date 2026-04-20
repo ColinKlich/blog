@@ -3,9 +3,6 @@ title: Financing your burger will bring down the economy
 date: 2025-12-04 12:00:00 -0600
 categories: [Finance]
 tags: [finance, economy, buy-now-pay-later, bnpl]
-image:
-  path: /assets/img/posts/financing-your-burger-will-bring-down-the-economy.jpg
-  alt: Financing your burger will bring down the economy
 ---
 
 I knew things were getting bad when I saw a sign at a fast-food drive-thru that said — and I'm not kidding —

@@ -3,9 +3,6 @@ title: Self-Respect, Gratitude, and Humility
 date: 2025-06-04 12:00:00 -0600
 categories: [Philosophy]
 tags: [philosophy, self-respect, gratitude, humility, happiness, life]
-image:
-  path: /assets/img/posts/self-respect-gratitude-and-humility.jpg
-  alt: Self-Respect, Gratitude, and Humility
 ---
 
 I've come to believe that all truly happy people — regardless of their background, wealth, or status — share three essential qualities

@@ -1,11 +1,8 @@
 ---
 title: Using Syncthing to manage my 6TB media library
-date: 2026-2-25
+date: 2026-02-25 12:00:00 -0600
 categories: [Plex, Media Server, Self-hosting]
 tags: [data storage]
-image:
-  path: /assets/img/posts/syncthing.png
-  alt: Syncthing
 ---
 
 ## The Issue

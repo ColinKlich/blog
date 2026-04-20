@@ -3,9 +3,6 @@ title: Are You a Hedgehog or A Fox?
 date: 2025-11-27 12:00:00 -0600
 categories: [Philosophy]
 tags: [philosophy, thinking, decision-making, hedgehog, fox]
-image:
-  path: /assets/img/posts/are-you-a-hedgehog-or-a-fox.jpg
-  alt: Are You a Hedgehog or A Fox?
 ---
 
 Hedgehog or fox? Knowing the difference can change how you work, think, and make decisions.

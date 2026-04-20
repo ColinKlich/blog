@@ -1,11 +1,8 @@
 ---
 title: Quantum Computing might be a SCAM
-date: 2024-11-21
+date: 2024-11-21 12:00:00 -0600
 categories: [Technology, Science]
 tags: [quantum-computing, cryptography, technology-hype]
-image:
-  path: /assets/img/posts/quantum-computing.png
-  alt: Quantum Computing Concept
 ---
 
 ## The Reality Check

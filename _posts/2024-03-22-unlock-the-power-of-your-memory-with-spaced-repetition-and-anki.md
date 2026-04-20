@@ -3,9 +3,6 @@ title: Unlock the Power of Your Memory with Spaced Repetition and Anki
 date: 2024-03-22 12:00:00 -0600
 categories: [Productivity]
 tags: [productivity, learning, memory, spaced-repetition, anki]
-image:
-  path: /assets/img/posts/unlock-memory-spaced-repetition.jpg
-  alt: Unlock the Power of Your Memory
 ---
 
 In our quest for knowledge, the challenge isn't just about learning new information but ensuring that it sticks.

@@ -3,9 +3,6 @@ title: The Magic of Hydroponics
 date: 2024-05-14 12:00:00 -0600
 categories: [Gardening]
 tags: [gardening, hydroponics, sustainable, agriculture, DIY]
-image:
-  path: /assets/img/posts/magic-of-hydroponics.jpg
-  alt: The Magic of Hydroponics
 ---
 
 Discover the wonders of hydroponics, a soil-free gardening revolution tailor-made for modern lifestyles!
