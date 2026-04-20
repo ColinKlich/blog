@@ -4,8 +4,8 @@ date: 2026-02-25 12:00:00 -0600
 categories: [Plex, Media Server, Self-hosting]
 tags: [data storage]
 image:
-  path: 
-  alt: 
+  path: /assets/img/posts/syncthing-placeholder.svg
+  alt: Syncthing Media Servers
 ---
 ## The Issue
 So I have two media servers running Plex. They are geographically separate, and both can serve the same media. They function as backups of each other. 

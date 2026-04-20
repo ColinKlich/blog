@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450">
+  <rect width="800" height="450" fill="#34495e"/>
+  <rect x="200" y="150" width="150" height="100" fill="#3498db" rx="5"/>
+  <rect x="450" y="150" width="150" height="100" fill="#2ecc71" rx="5"/>
+  <text x="275" y="210" font-family="Arial, sans-serif" font-size="16" fill="white" text-anchor="middle">Server 1</text>
+  <text x="525" y="210" font-family="Arial, sans-serif" font-size="16" fill="white" text-anchor="middle">Server 2</text>
+  <line x1="350" y1="200" x2="450" y2="200" stroke="white" stroke-width="3" stroke-dasharray="5,5"/>
+  <text x="400" y="120" font-family="Arial, sans-serif" font-size="20" fill="white" text-anchor="middle">Syncthing</text>
+  <text x="400" y="145" font-family="Arial, sans-serif" font-size="14" fill="white" text-anchor="middle">Media Library Sync</text>
+</svg>

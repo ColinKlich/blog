@@ -4,7 +4,7 @@ date: 2024-11-21 12:00:00 -0600
 categories: [Technology, Science]
 tags: [quantum-computing, cryptography, technology-hype]
 image:
-  path: 
+  path: /assets/img/posts/quantum-computing-placeholder.svg
   alt: Quantum Computing Concept
 ---
 ## The Reality Check
