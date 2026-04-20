@@ -3,6 +3,9 @@ title: The Magic of Hydroponics
 date: 2024-05-14 12:00:00 -0600
 categories: [Gardening]
 tags: [gardening, hydroponics, sustainable, agriculture, DIY]
+image:
+  path: 
+  alt: 
 ---
 Discover the wonders of hydroponics, a soil-free gardening revolution tailor-made for modern lifestyles!
 If you've ever felt the constraints of traditional gardening, whether due to limited time, space, or disappointing results, hydroponics offers a refreshing alternative worth exploring.

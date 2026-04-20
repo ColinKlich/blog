@@ -3,6 +3,9 @@ title: Unlock the Power of Your Memory with Spaced Repetition and Anki
 date: 2024-03-22 12:00:00 -0600
 categories: [Productivity]
 tags: [productivity, learning, memory, spaced-repetition, anki]
+image:
+  path: 
+  alt: 
 ---
 In our quest for knowledge, the challenge isn't just about learning new information but ensuring that it sticks.
 Enter [spaced repetition](https://en.wikipedia.org/wiki/Spaced_repetition): a revolutionary approach that transforms how we retain information, making the learning process both efficient and enduring.

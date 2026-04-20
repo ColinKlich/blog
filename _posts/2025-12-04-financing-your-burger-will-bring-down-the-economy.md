@@ -3,6 +3,9 @@ title: Financing your burger will bring down the economy
 date: 2025-12-04 12:00:00 -0600
 categories: [Finance]
 tags: [finance, economy, buy-now-pay-later, bnpl]
+image:
+  path: 
+  alt: 
 ---
 I knew things were getting bad when I saw a sign at a fast-food drive-thru that said — and I'm not kidding —
  "Split your meal into 4 easy payments."

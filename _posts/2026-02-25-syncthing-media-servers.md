@@ -3,6 +3,9 @@ title: Using Syncthing to manage my 6TB media library
 date: 2026-02-25 12:00:00 -0600
 categories: [Plex, Media Server, Self-hosting]
 tags: [data storage]
+image:
+  path: 
+  alt: 
 ---
 ## The Issue
 So I have two media servers running Plex. They are geographically separate, and both can serve the same media. They function as backups of each other. 
@@ -17,4 +20,4 @@ you can check it out [here](https://syncthing.net/)
 - The first server is on a synology NAS. This network also has a windows machine that is always one, and I will be using this machine as the Syncthing client to reduce pressure on synology.
 - The second server is on a windows 10 machine with external drives attached. This machine constantly crashes since the Windows 10 EOL, so it must first be upgraded to Ubuntu 24.
 ## The Solution
-<a href="https://github.com/colinklich/blog/edit/main/{{ page.path }}">✏️ Edit this page</a>
+<a href="https://github.com/colinklich/blog/edit/main/_posts/2026-02-25-syncthing-media-servers.md">✏️ Edit this page</a>

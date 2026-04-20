@@ -3,6 +3,9 @@ title: Quantum Computing might be a SCAM
 date: 2024-11-21 12:00:00 -0600
 categories: [Technology, Science]
 tags: [quantum-computing, cryptography, technology-hype]
+image:
+  path: 
+  alt: Quantum Computing Concept
 ---
 ## The Reality Check
 This morning, I thought Quantum Computing was the future. I've heard consistently that Quantum Computing will change the game, solve Cancer, crack the hardest encryptions, and generally make traditional computing (with 1s and 0s) obsolete.
@@ -48,4 +51,4 @@ The quantum computing field needs less funding based on speculative promises and
 ## Sources
 - [How to factor 2048 bit RSA integers in 8 hours using 20 million noisy qubits](https://arxiv.org/abs/2111.04351) — arxiv.org
 - [Quantum Algorithms: Shor's Algorithm](https://www.classiq.io) — Classiq.io
-<a href="https://github.com/colinklich/blog/edit/main/{{ page.path }}">✏️ Edit this page</a>
+<a href="https://github.com/colinklich/blog/edit/main/_posts/2026-02-25-quantum-computing-scam.md">✏️ Edit this page</a>

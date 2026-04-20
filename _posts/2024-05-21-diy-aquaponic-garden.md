@@ -3,6 +3,9 @@ title: DIY Aquaponic Garden
 date: 2024-05-21 12:00:00 -0600
 categories: [Gardening]
 tags: [gardening, aquaponics, DIY, sustainable, homesteading]
+image:
+  path: 
+  alt: 
 ---
 Do you love the idea of gardening but hate the work that goes into tilling, watering, weeding, etc.?
 Are you mildly handy and know how to load up an Amazon cart with all the items you could possibly need to complete a project?

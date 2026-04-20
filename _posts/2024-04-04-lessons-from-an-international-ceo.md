@@ -3,6 +3,9 @@ title: Lessons from an International CEO
 date: 2024-04-04 12:00:00 -0600
 categories: [Business]
 tags: [business, leadership, CEO, management, career]
+image:
+  path: 
+  alt: 
 ---
 Today, I had the chance to meet the CEO of my company — an international conglomerate with over 5,000 employees.
 Once a year, he holds a roundtable with a group of younger employees, and today was my turn to be in the room. It was one of those rare opportunities to hear firsthand insights from someone who's seen everything — from factory floor breakdowns to global market shifts.

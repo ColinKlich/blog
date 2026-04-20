@@ -3,6 +3,9 @@ title: Quantum Computing might be a SCAM
 date: 2024-11-21 12:00:00 -0600
 categories: [Technology]
 tags: [technology, quantum-computing, tech-skepticism, innovation]
+image:
+  path: 
+  alt: 
 ---
 This morning, I thought Quantum Computing was the future. I've heard consistently that Quantum Computing will change the game, solve Cancer, crack the hardest encryptions, and generally make traditional computing (with 1s and 0s) obsolete.
 Until I watched this video, that was all true.
